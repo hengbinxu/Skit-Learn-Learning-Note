@@ -1,6 +1,6 @@
 ## Skit-Learn-Learning-Note
 
-###Table content
+### Table content
  - Linear Regression
  - Logistic Regression
  - Naive Bayes Classification
